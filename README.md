@@ -1,7 +1,7 @@
 # Quote-Generator
 # Inspirational Quote Generator
 
-![Preview](QuoteGenerator.png)
+![Preview](Quote-Generator.png)
 
 A simple and elegant web app that displays a new inspirational quote each time you click the **New Quote** button. Built with HTML, CSS, and JavaScript.
 
